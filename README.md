@@ -4,7 +4,7 @@ This project entails simulating a corporate network using Oracle VirtualBox, fea
 
 **Project Diagram**
 
-![](https://lh3.googleusercontent.com/2SuLgIVwt8P-BxdAVPdpG3GVoyYeBWTL06fNavDuRMCl6t427EAg1jGhpDEuvlvFEzMrKlDaLmYDKCgJ51wKzR1QzxMStw3kdV2bZUuCrnElyi-vq0LbvuMwpd0RVKfogwjNWaB4VQQ7R5fX6CiC9Fw)
+![](https://lh5.googleusercontent.com/jBMVmks8G7-NVRjczGn5Xi2JOzWZP47Ox2HjDiyqm2k9nRAEOoR0XRger5_YvBcWwCgfMa8VJp3GfzTjoA7uDm7ib-uqqjFQ5v6HTfOMcYLyL8rxFecNPqAjGnr_v-e58BclaTG-bNK2OerZ88FtoH8)
 
 **Project Walkthrough**
 
