@@ -107,3 +107,4 @@ Through the Server Manager on the Domain Controller, we can see a new address le
 **Project Summary**
 
 This project involved the meticulous setup of a simulated corporate network environment using Oracle VirtualBox. Key milestones included configuring a Domain Controller (DC) with Windows Server 2019, establishing Active Directory, implementing Remote Access Service (RAS/NAT) for secure internet access, and deploying a DHCP server for automatic IP assignments. The project culminated with the successful integration of a Windows 10 client VM into the domain, showcasing seamless user authentication and resource access within the interconnected network.
+
